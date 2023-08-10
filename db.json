@@ -1,4 +1,5 @@
-{"operacao":[{
+{
+  "operacao":[{
   "commissionAmount": 123,
   "commissionStatus": "Aprovado",
   "idStore": 2,
