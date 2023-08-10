@@ -1,7 +1,8 @@
-{
+{"operacao":[{
   "commissionAmount": 123,
   "commissionStatus": "Aprovado",
   "idStore": 2,
   "idTransaction": 123456789,
   "transactionDate": "2023-08-04T15:30:00Z"
+}]
 }
